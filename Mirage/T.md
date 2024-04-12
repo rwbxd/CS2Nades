@@ -1,11 +1,13 @@
 # Mirage T Side Smokes
 
-<details><summary>Mid smokes from spawn</summary><ul style="list-style-type:none;">
-    <li><details><summary>Window smoke</summary>
-        Hold 'D' and jumpthrow
+## Table of Contents
+1. [Window Smoke](#window-smoke)
+
+## Window Smoke
+Hold D and jump throw
 
 ![Location](./images/T-to-Window/location.png)
 ![Look](./images/T-to-Window/look.png)
 ![Lineup](./images/T-to-Window/lineup.png)
-    </details></li>
-</ul></details>
+
+[Table of Contents](#table-of-contents)
